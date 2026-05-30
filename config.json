@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreender",
+        "uuid": 14029424,
+        "checksum": "gn9yh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
